@@ -111,16 +111,16 @@ button {
 }
 
 #page01 .bg {
-  background: url(../assets/images/page01/bg.jpg) no-repeat center;
+  background: url(assets/images/page01/bg.jpg) no-repeat center;
 }
 
 #page02 .bg {
-  background: url(../assets/images/page02/bg_01.jpg) no-repeat center;
+  background: url(assets/images/page02/bg_01.jpg) no-repeat center;
   background-size: cover;
 }
 
 #page03 .bg {
-  background: url(../assets/images/page03/bg.jpg) no-repeat center;
+  background: url(assets/images/page03/bg.jpg) no-repeat center;
   background-size: cover;
 }
 
